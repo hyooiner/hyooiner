@@ -4,23 +4,25 @@
 🎯 목표: 매일 기록을 남기고 새로운 것을 배우기  
 
 👀 현재 웹 개발, 데이터 과학, AI를 탐구 중입니다.  
-✨ 프롬프트 엔지니어링 관심
+✨ 프롬프트 엔지니어링에 관심이 많습니다.  
 📫 연락하기: hyooiner@gmail.com  
+
 
 💻 **기술 스택**  
 제가 즐겨 사용하는 기술들입니다:  
+- 🌐 **웹 개발**: HTML, CSS, JavaScript  
+- 🐍 **프로그래밍 언어**: Python, C  
+- 📊 **데이터 도구**: Pandas, NumPy  
 
-- 🌐 웹 개발: HTML, CSS, JavaScript  
-- 🐍 프로그래밍 언어: Python, C  
-- 📊 데이터 도구: Pandas, NumPy  
 
-📈 **GitHub**  
+## 📈 **GitHub 통계**  
 <p align="center"> 
-<img src="https://github-readme-stats.vercel.app/api?username=hyooiner&show_icons=true&theme=radical" alt="GitHub Stats" />  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyooiner&layout=compact&theme=radical" alt="Top Languages" />  
+  <img src="https://github-readme-stats.vercel.app/api?username=hyooiner&show_icons=true&theme=radical" alt="GitHub Stats" />  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyooiner&layout=compact&theme=radical" alt="Top Languages" />  
 </p>
 
-## 🏆 Baekjoon 
+
+## 🏆 **Baekjoon Statistics**
 
 <p align="center">
   <a href="https://solved.ac/komosjs44/">
