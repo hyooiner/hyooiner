@@ -16,6 +16,9 @@
 
 📈 **GitHub 통계**  
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=hyooiner&show_icons=true&theme=radical" alt="GitHub Stats" />  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyooiner&layout=compact&theme=radical" alt="Top Languages" />  
+<img src="https://github-readme-stats.vercel.app/api?username=hyooiner&show_icons=true&theme=radical" alt="GitHub Stats" />  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyooiner&layout=compact&theme=radical" alt="Top Languages" />  
 </p>
+
+## 🏆 Baekjoon Statistics 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=komosjs44)](https://solved.ac/komosjs44/)
