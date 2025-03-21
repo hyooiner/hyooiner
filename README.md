@@ -11,9 +11,7 @@
 💻 **기술 스택**  
 제가 즐겨 사용하는 기술들입니다:  
 - 🌐 **웹 개발**: HTML, CSS, JavaScript  
-- 🐍 **프로그래밍 언어**: Python, C  
-- 📊 **데이터 도구**: Pandas, NumPy  
-
+- 🐍 **프로그래밍 언어**: Python, C ,java
 
 ## 📈 **GitHub 통계**  
 <p align="center"> 
